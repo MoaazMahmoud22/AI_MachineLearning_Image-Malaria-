@@ -20,5 +20,6 @@ The goal is to save lives by developing models that can detect and classify cell
 Let's collaborate to build tools that contribute to the early detection and diagnosis of malaria. 🌐💉🔬 #MalariaDetection #MedicalImaging #DataScience #Kaggle
 
 Team:
-user:@mostafa8899
-user:yassminkhafaga
+- @mostafa8899
+- @yassminkhafaga
+- @MennaMansour
